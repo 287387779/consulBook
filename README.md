@@ -1,1 +1,1 @@
-# consul官网中文翻译
+# consul官网
